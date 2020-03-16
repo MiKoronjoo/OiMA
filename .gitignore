@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# IDE files
+.idea/
+.vscode/
+
+# Config file
+config.py
+
+# Session files
+*.session
+*.session-journal
