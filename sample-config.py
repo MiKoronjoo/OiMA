@@ -1,0 +1,3 @@
+DB_PATH = 'db.sqlite'
+BOT_TOKEN = 'BOT-TOKEN-HERE'
+ADMIN_ID = 0
